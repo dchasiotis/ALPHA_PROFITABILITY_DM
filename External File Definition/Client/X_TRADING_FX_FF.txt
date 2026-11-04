@@ -1,0 +1,8 @@
+13.0
+6
+1   SQLCHAR	0	50   ";"       1	MONTH			""
+2   SQLCHAR	0	50   ";"       2	CDI			""
+3   SQLCHAR	0	50   ";"       3	BRANCH			""
+4   SQLCHAR	0	50   ";"       4	COUNT_OF_TRANSACTIONS		""
+5   SQLCHAR	0	50   ";"       5	VOLUME		""
+6   SQLCHAR	0	50   "\r\n"    6	FX_INCOME			""

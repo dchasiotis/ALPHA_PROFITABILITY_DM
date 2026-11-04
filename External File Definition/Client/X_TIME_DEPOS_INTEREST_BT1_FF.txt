@@ -1,0 +1,8 @@
+13.0
+5
+1   SQLCHAR	0	500   ";"      1	DATE_			""
+2   SQLCHAR	0	500   ";"      2	DEAL_NUMBER             ""
+3   SQLCHAR	0	500   ";"      3	BALANCE_TYPE            ""
+4   SQLCHAR	0	500   ";"      4	EXPENSE			""
+5   SQLCHAR	0	500   "\r\n"   5	OT_INTEREST			""
+

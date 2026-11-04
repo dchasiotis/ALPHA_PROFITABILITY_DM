@@ -1,0 +1,5 @@
+13.0
+2
+1   SQLCHAR	0	20   ";"      1	REF_MONTH			""
+2   SQLCHAR	0	50   "\r\n"      2	ISIN			""
+
