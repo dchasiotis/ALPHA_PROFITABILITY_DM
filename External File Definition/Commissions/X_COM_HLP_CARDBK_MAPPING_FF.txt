@@ -1,0 +1,6 @@
+13.0
+2
+1	SQLCHAR	0	1000	";"	    1	  CARDBIN6            ""
+2	SQLCHAR	0	1000	"\r\n"	    2	  PRODUCT_TYPE  	""
+
+

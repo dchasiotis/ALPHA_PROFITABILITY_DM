@@ -1,0 +1,12 @@
+13.0
+8
+1	SQLCHAR	0	1000	";"	    1	  PREFIX            ""
+2	SQLCHAR	0	1000	";"	    2	  KWD_PROIONTOS  	""
+3	SQLCHAR	0	1000	";"	    3	  DESCRIPTION_ENGLISH            ""
+4	SQLCHAR	0	1000	";"	    4	  PERIGRAFI_ELLHNIKA            ""
+5	SQLCHAR	0	1000	";"	    5	  TYPE            ""
+6	SQLCHAR	0	1000	";"	    6	  KATIGORIA_EE            ""
+7	SQLCHAR	0	1000	";"	    7	  TYPE_2            ""
+8	SQLCHAR	0	1000	"\r\n"	    8	  CHANNEL            ""
+
+

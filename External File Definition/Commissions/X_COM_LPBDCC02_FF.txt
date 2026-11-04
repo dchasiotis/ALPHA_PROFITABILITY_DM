@@ -1,0 +1,15 @@
+13.0
+13
+1	SQLCHAR	0	500     ";"	    1	  AA	""
+2	SQLCHAR	0	500	";"	    2	  CARD	""
+3	SQLCHAR	0	500	";"	    3	  TUN  	""
+4	SQLCHAR	0	500	";"	    4	  DATE 	""
+5	SQLCHAR	0	500	";"	    5	  TIME 	""
+6	SQLCHAR	0	500	";"	    6	  ATM 	""
+7	SQLCHAR	0	500	";"	    7	  AMOUNT 	""
+8	SQLCHAR	0	500	";"	    8	  FIELD8 	""
+9	SQLCHAR	0	500	";"	    9	  CURRENCY 	""
+10	SQLCHAR	0	500	";"	    10	  FIELD10 	""
+11	SQLCHAR	0	500	";"	    11	  PERCENTAGE 	""
+12	SQLCHAR	0	500	";"	    12	  COMMISSION 	""
+13	SQLCHAR	0	500	"\r\n"	    13	  CARD_TYPE 	""

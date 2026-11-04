@@ -1,0 +1,22 @@
+13.0
+18
+1	SQLCHAR	0	1000	";"	    1	  PELATIS_ACCT	""
+2	SQLCHAR	0	1000	";"	    2	  PELATIS_ACRONYM 	""
+3	SQLCHAR	0	1000	";"	    3	  PELATIS_NAME	""
+4	SQLCHAR	0	1000	";"	    4	  PREFIX	""
+5	SQLCHAR	0	1000	";"	    5	  NUMBER	""
+6	SQLCHAR	0	1000	";"	    6	  SEQ	""
+7	SQLCHAR	0	1000	";"	    7	  PRD_COD	""
+8	SQLCHAR	0	1000	";"	    8	  CURR_CODE	""
+9	SQLCHAR	0	1000	";"	    9	  PMT_AMT_FGN	""
+10	SQLCHAR	0	1000	";"	    10	  PMT_AMT_BASE	""
+11	SQLCHAR	0	1000	";"	    11	  COUNTER	""
+12	SQLCHAR	0	1000	";"	    12	  PAYMENT_DATE	""
+13	SQLCHAR	0	1000	";"	    13	  XG_HIST_BRANCH	""
+14	SQLCHAR	0	1000	";"	    14	  XG_HIST_INIT_BRNCH	""
+15	SQLCHAR	0	1000	";"	    15	  MDK                   ""
+16	SQLCHAR	0	1000	";"	    16	  MDK_DESC              ""
+17	SQLCHAR	0	1000	";"	    17	  MDS                   ""
+18	SQLCHAR	0	1000	"\r\n"	    18	  MDS_DESC              ""
+
+

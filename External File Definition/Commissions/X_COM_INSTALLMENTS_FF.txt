@@ -1,0 +1,12 @@
+13.0
+8
+1	SQLCHAR	0	1000	";"	    1	  ACODE ""
+2	SQLCHAR	0	1000	";"	    2	  DESCR ""
+3	SQLCHAR	0	1000	";"	    3	  MDATE ""
+4	SQLCHAR	0	1000	";"	    4	  DEBIT ""
+5	SQLCHAR	0	1000	";"	    5	  CREDIT ""
+6	SQLCHAR	0	1000	";"	    6	  DOC_CODE ""
+7	SQLCHAR	0	1000	";"	    7	  CLIENT_ID ""
+8	SQLCHAR	0	1000	"\r\n"	    8	  PARARTIMA ""
+
+

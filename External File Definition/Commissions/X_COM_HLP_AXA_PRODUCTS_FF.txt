@@ -1,0 +1,7 @@
+13.0
+5
+1	SQLCHAR	0	1000	";"	    1	  ORIGINATION_SYSTEM            ""
+2	SQLCHAR	0	1000	";"	    2	  KWDIKOS_PROIONTOS_ARXEIO_XARTOFYLAKIOU   	""
+3	SQLCHAR	0	1000	";"	    3	  DESCRIPTION            ""
+4	SQLCHAR	0	1000	";"	    4	  PRODUCT_CATEGORY            ""
+5	SQLCHAR	0	1000	"\r\n"	    5	  DESCRIPTION_1            ""

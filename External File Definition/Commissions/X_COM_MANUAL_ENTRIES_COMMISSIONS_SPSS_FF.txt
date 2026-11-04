@@ -1,0 +1,11 @@
+13.0
+9
+1	SQLCHAR	0	1000	";"	    1	  DATE	 ""
+2	SQLCHAR	0	1000	";"	    2	  FILE_NAME 	 ""
+3	SQLCHAR	0	1000	";"	    3	  CDI   ""
+4	SQLCHAR	0	1000	";"	    4	  NAME    ""
+5	SQLCHAR	0	1000	";"	    5	  SEGMENTAL    ""
+6	SQLCHAR	0	1000	";"	    6	  COMMISSION_AMOUNT   ""
+7	SQLCHAR	0	1000	";"	    7	  CHARGE_TYPE   ""
+8	SQLCHAR	0	1000	";"	    8	  EPM_PRODUCT  ""
+9	SQLCHAR	0	1000	"\r\n"	    9	  EVA_PRODUCT  ""
