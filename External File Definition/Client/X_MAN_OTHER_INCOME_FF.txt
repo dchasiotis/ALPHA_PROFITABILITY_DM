@@ -1,0 +1,7 @@
+13.0
+5
+1   SQLCHAR	0	50   ";"      1	HMNIA			""
+2   SQLCHAR	0	50   ";"      2	SOURCE_CODE			""
+3   SQLCHAR	0	50   ";"      3	CLIENT_CODE			""
+4   SQLCHAR	0	50   ";"      4	CURRENCY_CODE			""
+5   SQLCHAR	0	50   "\r\n"      5	MTD_OTHER_INCOME_EUR		""

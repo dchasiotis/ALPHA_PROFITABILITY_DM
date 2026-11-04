@@ -1,0 +1,10 @@
+13.0
+8
+1   SQLCHAR	0	500   ";"      1	FILE_NAME_			""
+2   SQLCHAR	0	500   ";"      2	ACCOUNT			""
+3   SQLCHAR	0	500   ";"      3	CDI			""
+4   SQLCHAR	0	500   ";"      4	NETWORK			""
+5   SQLCHAR	0	500   ";"      5	EPM_UNIT			""
+6   SQLCHAR	0	500   ";"      6	COMM_AMOUNT			""
+7   SQLCHAR	0	500   ";"      7	CHARGE_TYPE			""
+8   SQLCHAR	0	500   "\r\n"      8	FILE_CATEGORY			""

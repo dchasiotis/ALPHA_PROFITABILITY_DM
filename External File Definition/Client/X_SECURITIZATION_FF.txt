@@ -1,0 +1,7 @@
+13.0
+5
+1   SQLCHAR	0	50   ";"      1	REFERENCE_DATE		""
+2   SQLCHAR	0	50   ";"      2	ACCOUNT_CODE		""
+3   SQLCHAR	0	50   ";"      3	SOURCE_SYSTEM_CODE		""
+4   SQLCHAR	0	50   ";"      4	SECURITIZATION_CODE			""
+5   SQLCHAR	0	50   "\r\n"      5	SECURITIZATION_DATE			""

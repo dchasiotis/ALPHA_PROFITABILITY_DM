@@ -1,0 +1,8 @@
+13.0
+6
+1   SQLCHAR	0	50    ";"      1	PROD			                ""
+2   SQLCHAR	0	50    ";"      2	CUSTOMER_CDI_CODE			""
+3   SQLCHAR	0	200   ";"      3	CUSTOMER_NAME_REPORTING			""
+4   SQLCHAR	0	50    ";"      4	ACCOUNT_FIN_DETAILS_ACCOUNT_CODE	""
+5   SQLCHAR	0	50    ";"      5	AMOUNT			                ""
+6   SQLCHAR	0	50    "\r\n"   6	HMNIA		                	""

@@ -1,0 +1,8 @@
+13.0
+6
+1   SQLCHAR	0	50   ";"      1	HMNIA			""
+2   SQLCHAR	0	50   ";"      2	ENTITY_CODE			""
+3   SQLCHAR	0	50   ";"      3	EBA_FLAG_CODE			""
+4   SQLCHAR	0	50   ";"      4	ASSET_CLASS_CODE			""
+5   SQLCHAR	0	50   ";"      5	ASSET_CLASS_DESC			""
+6   SQLCHAR	0	50   "\r\n"   6	RATIO			""

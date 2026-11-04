@@ -1,0 +1,8 @@
+13.0
+5
+1   SQLCHAR	0	500   ";"      1    REFERENCE_DATE ""
+2   SQLCHAR	0	500   ";"      2    CLIENT_CODE ""
+3   SQLCHAR	0	500   ";"      3    CLIENT_NAME  ""
+4   SQLCHAR	0	500   ";"      4    ACCOUNT_CODE ""
+5   SQLCHAR	0	500  "\r\n"    5    AMOUNT ""
+

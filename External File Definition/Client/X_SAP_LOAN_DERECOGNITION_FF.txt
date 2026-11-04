@@ -1,0 +1,14 @@
+13.0
+12
+1   SQLCHAR	0	50   ";"      1	COMP_CODE			""
+2   SQLCHAR	0	50   ";"      2	ANTISTOIXISH			""
+3   SQLCHAR	0	50   ";"      3	REC_NUMBER			""
+4   SQLCHAR	0	50   ";"      4	EPP			""
+5   SQLCHAR	0	50   ";"      5	REC_TYPE			""
+6   SQLCHAR	0	50   ";"      6	KK			""
+7   SQLCHAR	0	50   ";"      7	SYS_ACCOUNT			""
+8   SQLCHAR	0	50   ";"      8	GL_ACCOUNT			""
+9   SQLCHAR	0	50   ";"      9	REC_DATE			""
+10   SQLCHAR	0	50   ";"      10	VALUER_DATE			""
+11   SQLCHAR	0	50   ";"      11	CUR			""
+12   SQLCHAR	0	50   "\r\n"      12	AMOUNT			""

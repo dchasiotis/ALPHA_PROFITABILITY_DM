@@ -1,0 +1,5 @@
+13.0
+3
+1   SQLCHAR	0	100   ";"      1	AS_OF_DATE		""
+2   SQLCHAR	0	100    ";"      2	ACCOUNT_CODE			""
+3   SQLCHAR	0	100   "\r\n"      3	INTEREST			""

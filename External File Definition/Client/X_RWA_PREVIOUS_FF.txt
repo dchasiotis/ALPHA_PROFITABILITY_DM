@@ -1,0 +1,15 @@
+13.0
+13
+1   SQLCHAR	0	20   ";"      1	PERIOD			""
+2   SQLCHAR	0	50   ";"      2	ENTITY_CODE			""
+3   SQLCHAR	0	50   ";"      3	MARKETPARTICIPANT			""
+4   SQLCHAR	0	50   ";"      4	ACCOUNT			""
+5   SQLCHAR	0	50   ";"      5	CUR			""
+6   SQLCHAR	0	50   ";"      6	BS_ITEM_ON_OFF			""
+7   SQLCHAR	0	50   ";"      7	EXPOSURE_ON_BALANCE_OFF_BALANCE			""
+8   SQLCHAR	0	50   ";"      8	IMPAIREMENT_FULLY_LOADED			""
+9   SQLCHAR	0	50   ";"      9	IMPAIREMENT_PHASE_IN			""
+10   SQLCHAR	0	50   ";"      10	RWAS			""
+11   SQLCHAR	0	50   ";"      11	EBA_STATUS			""
+12   SQLCHAR	0	50   ";"      12	PORTFOLIO			""
+13   SQLCHAR	0	100   "\r\n"      13	CONSOLIDATION_PERIMETER			""

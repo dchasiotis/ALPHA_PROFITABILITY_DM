@@ -1,0 +1,7 @@
+13.0
+5
+1   SQLCHAR	0	50   ";"      1	LOAN_CLASS_CODE			""
+2   SQLCHAR	0	50   ";"      2	AS_OF_DATE			""
+3   SQLCHAR	0	50   ";"       3	ACCOUNT_CODE			""
+4   SQLCHAR	0	50   ";"       4	CASH_VALUE_PERC_ON_CURRENT_BALANCES			""
+5   SQLCHAR	0	50   "\r\n"      5	CASH_VALUE_PERC_ON_AVERAGE_BALANCES			""
