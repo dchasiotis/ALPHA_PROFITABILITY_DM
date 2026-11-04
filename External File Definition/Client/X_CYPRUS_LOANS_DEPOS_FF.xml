@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<BCPFORMAT xmlns="http://schemas.microsoft.com/sqlserver/2004/bulkload/format" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<RECORD>
+<FIELD ID="1" xsi:type="CharFixed" LENGTH="1"/>
+<FIELD ID="2" xsi:type="CharFixed" LENGTH="25"/>
+<FIELD ID="3" xsi:type="CharFixed" LENGTH="1"/>
+<FIELD ID="4" xsi:type="CharFixed" LENGTH="1"/>
+<FIELD ID="5" xsi:type="CharFixed" LENGTH="1"/>
+<FIELD ID="6" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="7" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="8" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="9" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="10" xsi:type="CharFixed" LENGTH="8"/>
+<FIELD ID="11" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="12" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="13" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="14" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="15" xsi:type="CharFixed" LENGTH="7"/>
+<FIELD ID="16" xsi:type="CharFixed" LENGTH="4"/>
+<FIELD ID="17" xsi:type="CharFixed" LENGTH="4"/>
+<FIELD ID="18" xsi:type="CharFixed" LENGTH="7"/>
+<FIELD ID="19" xsi:type="CharFixed" LENGTH="25"/>
+<FIELD ID="20" xsi:type="CharFixed" LENGTH="25"/>
+<FIELD ID="21" xsi:type="CharFixed" LENGTH="25"/>
+<FIELD ID="22" xsi:type="CharFixed" LENGTH="3"/>
+<FIELD ID="23" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="24" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="25" xsi:type="CharFixed" LENGTH="10"/>
+<FIELD ID="26" xsi:type="CharFixed" LENGTH="2"/>
+<FIELD ID="27" xsi:type="CharFixed" LENGTH="2"/>
+<FIELD ID="28" xsi:type="CharFixed" LENGTH="10"/>
+<FIELD ID="29" xsi:type="CharFixed" LENGTH="40" COLLATION="SQL_Latin1_General_CP1253_CI_AI"/>
+<FIELD ID="30" xsi:type="CharFixed" LENGTH="13" COLLATION="SQL_Latin1_General_CP1253_CI_AI"/>
+<FIELD ID="31" xsi:type="CharFixed" LENGTH="15"/>
+<FIELD ID="32" xsi:type="CharFixed" LENGTH="1"/>
+<FIELD ID="33" xsi:type="CharFixed" LENGTH="9"/>
+<FIELD ID="34" xsi:type="CharFixed" LENGTH="9"/>
+<FIELD ID="35" xsi:type="CharFixed" LENGTH="13"/>
+<FIELD ID="36" xsi:type="CharFixed" LENGTH="9"/>
+<FIELD ID="37" xsi:type="CharFixed" LENGTH="8"/>
+<FIELD ID="38" xsi:type="CharFixed" LENGTH="8"/>
+<FIELD ID="39" xsi:type="CharFixed" LENGTH="8"/>
+<FIELD ID="40" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="41" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="42" xsi:type="CharFixed" LENGTH="3"/>
+<FIELD ID="43" xsi:type="CharFixed" LENGTH="8"/>
+<FIELD ID="44" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="45" xsi:type="CharFixed" LENGTH="4"/>
+<FIELD ID="46" xsi:type="CharFixed" LENGTH="3"/>
+<FIELD ID="47" xsi:type="CharFixed" LENGTH="2"/>
+<FIELD ID="48" xsi:type="CharFixed" LENGTH="9"/>
+<FIELD ID="49" xsi:type="CharFixed" LENGTH="8"/>
+<FIELD ID="50" xsi:type="CharFixed" LENGTH="10"/>
+<FIELD ID="51" xsi:type="CharFixed" LENGTH="50"/>
+<FIELD ID="52" xsi:type="CharFixed" LENGTH="4"/>
+<FIELD ID="53" xsi:type="CharFixed" LENGTH="2"/>
+<FIELD ID="54" xsi:type="CharFixed" LENGTH="1"/>
+<FIELD ID="55" xsi:type="CharFixed" LENGTH="8"/>
+<FIELD ID="56" xsi:type="CharFixed" LENGTH="50"/>
+<FIELD ID="57" xsi:type="CharFixed" LENGTH="3"/>
+<FIELD ID="58" xsi:type="CharFixed" LENGTH="47"/>
+<FIELD ID="59" xsi:type="CharFixed" LENGTH="4"/>
+<FIELD ID="60" xsi:type="CharFixed" LENGTH="5"/>
+<FIELD ID="61" xsi:type="CharFixed" LENGTH="5"/>
+<FIELD ID="62" xsi:type="CharFixed" LENGTH="5"/>
+<FIELD ID="63" xsi:type="CharFixed" LENGTH="2"/>
+<FIELD ID="64" xsi:type="CharFixed" LENGTH="4"/>
+<FIELD ID="65" xsi:type="CharFixed" LENGTH="2"/>
+<FIELD ID="66" xsi:type="CharFixed" LENGTH="9"/>
+<FIELD ID="67" xsi:type="CharFixed" LENGTH="5"/>
+<FIELD ID="68" xsi:type="CharFixed" LENGTH="5"/>
+<FIELD ID="69" xsi:type="CharFixed" LENGTH="5"/>
+<FIELD ID="70" xsi:type="CharFixed" LENGTH="5"/>
+<FIELD ID="71" xsi:type="CharFixed" LENGTH="17"/>
+<FIELD ID="72" xsi:type="CharFixed" LENGTH="5"/>
+<FIELD ID="73" xsi:type="CharTerm" TERMINATOR="\r\n"/> 
+</RECORD>
+<ROW> 
+<COLUMN SOURCE="1" NAME="RECORD_TYPE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="2" NAME="ACCOUNT_NUMBER" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="3" NAME="ACCOUNT_STATUS" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="4" NAME="ACCRUAL_BASIS" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="5" NAME="ACCRUED_INTEREST_MONTH_SIGN" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="6" NAME="ACCRUED_INTEREST_MONTH_CCY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="7" NAME="ACCRUED_INTEREST_MONTH_EUR" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="8" NAME="ACCRUED_INTEREST_YTD_CCY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="9" NAME="ACCRUED_INTEREST_YTD_EUR" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="10" NAME="AS_OF_DATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="11" NAME="AVERAGE_BALANCE_MONTH_CCY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="12" NAME="AVERAGE_BALANCE_MONTH_EUR" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="13" NAME="AVERAGE_BALANCE_YTD_CCY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="14" NAME="AVERAGE_BALANCE_YTD_EUR" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="15" NAME="LEGAL_ENTITY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="16" NAME="BRANCH_MAINT" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="17" NAME="BRANCH_OPEN" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="18" NAME="COST_CENTER_CODE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="19" NAME="ORIGINATING_COUNTRY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="20" NAME="ORIGINATING_UNIT" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="21" NAME="ORIGINATING_BRANCH" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="22" NAME="CURRENCY_CODE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="23" NAME="CURRENT_BOOK_BAL_CCY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="24" NAME="CURRENT_BOOK_BAL_EUR" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="25" NAME="CUSTOMER_CATEGORY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="26" NAME="CUSTOMER_FLAG" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="27" NAME="CUSTOMER_FLAG_ALPHA_BANK" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="28" NAME="CUSTOMER_NUMBER" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="29" NAME="CUSTOMER_NAME" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="30" NAME="CUSTOMER_TAX_CODE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="31" NAME="GL_ACCOUNT_NUMBER" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="32" NAME="GL_ACCOUNT_TYPE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="33" NAME="INTEREST_RATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="34" NAME="CUSTOMER_SPREAD" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="35" NAME="BASE_RATE_INDEX" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="36" NAME="FEE_RATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="37" NAME="MATURITY_DATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="38" NAME="NEXT_PAYMENT_DATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="39" NAME="NEXT_REPRICE_DATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="40" NAME="ORIGINAL_BALANCE_CCY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="41" NAME="ORIGINAL_BALANCE_EUR" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="42" NAME="ORIGINAL_TERM" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="43" NAME="ORIGINATION_DATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="44" NAME="PAYMENT_AMOUNT" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="45" NAME="PAYMENT_FREQUENCY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="46" NAME="PAYMENT_FREQUENCY_INCREMENT" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="47" NAME="PAYMENT_TYPE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="48" NAME="PERCENT_OWNED" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="49" NAME="PREVIOUS_REPRICE_DATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="50" NAME="PRODUCT_CODE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="51" NAME="PRODUCT_DESCRIPTION" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="52" NAME="RATE_CHANGE_FREQUENCY" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="53" NAME="RATE_CHANGE_FREQUENCY_INCREMENT" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="54" NAME="RATE_FLAG" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="55" NAME="REAL_CLOSE_DATE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="56" NAME="BASE_RATE_DESCRIPTION" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="57" NAME="CUSTOMER_TYPE" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="58" NAME="CUSTOMER_TYPE_DESCRIPTION" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="59" NAME="EBA_Status" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="60" NAME="Stage" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="61" NAME="Assessment_Type" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="62" NAME="Product_Type" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="63" NAME="SPV_Flag" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="64" NAME="SPV_Type" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="65" NAME="Convention_Type" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="66" NAME="Basic_Interest_Rate" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="67" NAME="Group_Flag" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="68" NAME="LCR_Stable_Code" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="69" NAME="LCR_BusinessUnit_Code" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="70" NAME="LCR_Transaction_Type_Code" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="71" NAME="LCR_Operational_Amount" xsi:type="SQLNCHAR" /> 
+<COLUMN SOURCE="72" NAME="HFS_Indicator" xsi:type="SQLNCHAR" /> 
+</ROW>
+</BCPFORMAT> 

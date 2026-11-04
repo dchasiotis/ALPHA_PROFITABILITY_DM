@@ -1,0 +1,18 @@
+13.0
+16
+1   SQLCHAR	0	50   ";"      1	ENTITY			""
+2   SQLCHAR	0	50   ";"      2	ACCOUNTNO			""
+3   SQLCHAR	0	50   ";"      3	FINANCIAL_TABLE_CODE			""
+4   SQLCHAR	0	50   ";"      4	LTD_MODGAIN			""
+5   SQLCHAR	0	50   ";"      5	LTD_MODLOSS			""
+6   SQLCHAR	0	50   ";"      6	LTD_FEES			""
+7   SQLCHAR	0	50   ";"      7	LTD_CATCHUPADJ			""
+8   SQLCHAR	0	50   ";"      8	LTD_MODGAIN_AM		""
+9   SQLCHAR	0	50   ";"      9	LTD_MODLOSS_AM		""
+10   SQLCHAR	0	50   ";"      10	LTD_FEES_AM		""
+11   SQLCHAR	0	50   ";"      11	LTD_CATCHUPADJ_AM		""
+12   SQLCHAR	0	50   ";"      12	LTD_AMORTIZED		""
+13   SQLCHAR	0	50   ";"      13	AMORTIZED_MO		""
+14   SQLCHAR	0	50   ";"      14	POSITIVE_IFRS9ADJ		""
+15   SQLCHAR	0	50   ";"      15	NEGATIVE_IFRS9ADJ	""
+16   SQLCHAR	0	50   "\r\n"      16	AMOUNT			""

@@ -1,0 +1,34 @@
+--X_CYPRUS_IFRS_ADJ
+ALTER VIEW STG.X_CYPRUS_IFRS_ADJ_V
+AS
+SELECT
+ENTITY 
+ , 'AB'+ ENTITY AS ENTITY_CALC   ----- ENTITY_CODE -----
+ , ACCOUNTNO
+ , case when ltrim(rtrim(ISNULL(ACCOUNTNO,''))) = '' then '0'     ----- ACCOUNT_CODE  -----
+        else ACCOUNTNO end as ACCOUNTNO_CALC
+, FINANCIAL_TABLE_CODE
+, LTD_MODGAIN
+, LTD_MODLOSS
+, LTD_FEES
+, LTD_CATCHUPADJ
+, LTD_MODGAIN_AM
+, LTD_MODLOSS_AM
+, LTD_FEES_AM
+, LTD_CATCHUPADJ_AM
+, LTD_AMORTIZED
+, AMORTIZED_MO
+, CAST(isnull(replace(replace(ltrim(rtrim(AMORTIZED_MO)), '.',''), ',','.'), 0) as  float)  AS AMORTIZED_MO_CALC    ----- MTD_NII_INTEREST_EUR -----
+, POSITIVE_IFRS9ADJ
+, NEGATIVE_IFRS9ADJ
+, AMOUNT
+, CAST(isnull(replace(replace(ltrim(rtrim(AMOUNT)), '.',''), ',','.'), 0) as  float)  AS AMOUNT_CALC   ----- EOP_BALANCE_EUR -----
+
+
+FROM    OPENROWSET(BULK 'X:/DATA/CLIENT/DATA/X_CYPRUS_IFRS_ADJ.csv', 
+FORMATFILE = 'X:/DATA/CLIENT/FF/X_CYPRUS_IFRS_ADJ_FF.txt',
+FIRSTROW=2
+) as zzz
+
+
+	

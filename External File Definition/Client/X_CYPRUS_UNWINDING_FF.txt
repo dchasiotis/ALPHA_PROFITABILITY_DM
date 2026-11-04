@@ -1,0 +1,7 @@
+13.0
+4
+1   SQLCHAR	0	50   ";"      1	  AS_OF_DATE  ""
+2   SQLCHAR	0	50   ";"      2	  ACCOUNT  ""
+3   SQLCHAR	0	50  ";"       3	  UNWINDING_OF_INTEREST_MTD  ""
+4   SQLCHAR	0	50  "\r\n"    4	  LEGAL_ENTITY   ""
+

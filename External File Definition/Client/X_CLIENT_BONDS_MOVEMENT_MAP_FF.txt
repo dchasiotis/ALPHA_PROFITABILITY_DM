@@ -1,0 +1,4 @@
+13.0
+2
+1  SQLCHAR 0 500 ";"    1  INFO ""
+2  SQLCHAR 0 500 "\r\n" 2  MOVEMENT_TYPE ""

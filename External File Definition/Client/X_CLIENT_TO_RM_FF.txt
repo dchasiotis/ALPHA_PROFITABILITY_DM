@@ -1,0 +1,6 @@
+13.0
+4
+1   SQLCHAR	0	500   ";"       1	CLIENT_CODE			""
+2   SQLCHAR	0	500   ";"       2	CLIENT_NAME			""
+3   SQLCHAR	0	500   ";"       3	RM_CODE			""
+4   SQLCHAR	0	500   "\r\n"    4	RM_NAME			""
