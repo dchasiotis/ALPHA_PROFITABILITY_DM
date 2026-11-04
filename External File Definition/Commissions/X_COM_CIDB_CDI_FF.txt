@@ -1,0 +1,5 @@
+13.0
+3
+1	SQLCHAR	0	1000	";"	    1	  CDI           ""
+2	SQLCHAR	0	1000	";"	    2	  CIDB  	""
+3	SQLCHAR	0	1000	"\r\n"	    3	  CDI_10_DIGITS  	""

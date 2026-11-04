@@ -1,0 +1,9 @@
+13.0
+6
+1	SQLCHAR	0	1000	";"	    1	  ATM	 ""
+2	SQLCHAR	0	1000	";"	    2	  SOATM 	 ""
+3	SQLCHAR	0	1000	";"	    3	  ONOMASIA   ""
+4	SQLCHAR	0	1000	";"	    4	  KATASTIMA_SIMVASIS    ""
+5	SQLCHAR	0	1000	";"	    5	  KO  ""
+6	SQLCHAR	0	1000	"\r\n"	    6	  ATM_ONLINE  ""
+

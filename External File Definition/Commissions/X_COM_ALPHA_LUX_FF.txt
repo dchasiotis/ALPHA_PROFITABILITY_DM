@@ -1,0 +1,15 @@
+13.0
+11
+1	SQLCHAR	0	1000	";"	    1	  PERIOD	""
+2	SQLCHAR	0	1000	";"	    2	  NAME 	""
+3	SQLCHAR	0	1000	";"	    3	  ISIN	""
+4	SQLCHAR	0	1000	";"	    4	  CATEGORY	""
+5	SQLCHAR	0	1000	";"	    5	  MANAGEMENT_FEE	""
+6	SQLCHAR	0	1000	";"	    6	  REBATE_RATE	""
+7	SQLCHAR	0	1000	";"	    7	  FUND	""
+8	SQLCHAR	0	1000	";"	    8	  MN_FEE_TOTAL	""
+9	SQLCHAR	0	1000	";"	    9	  MN_FEE_BANK	""
+10	SQLCHAR	0	1000	";"	    10	  MN_FEE_ASSET_MANAGEMENT	""
+11	SQLCHAR	0	1000	"\r\n"	    11	  AVERAGE                       ""
+
+

@@ -1,0 +1,9 @@
+13.0
+5
+1	SQLCHAR	0	1000	";"	    1	  ETOS	""
+2	SQLCHAR	0	1000	";"	    2	  MINAS 	""
+3	SQLCHAR	0	1000	";"	    3	  PRC_XREOSIS	""
+4	SQLCHAR	0	1000	";"	    4	  _GROUP	""
+5	SQLCHAR	0	1000	"\r\n"	    5	  XREOSIS	""
+
+

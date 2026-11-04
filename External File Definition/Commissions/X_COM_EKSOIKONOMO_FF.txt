@@ -1,0 +1,6 @@
+13.0
+4
+1   SQLCHAR	0	50   ";"      1	ARITHMOS_AITHSHS                ""
+2   SQLCHAR	0	50   ";"      2	PISTWSH_SE			""
+3   SQLCHAR	0	50   ";"      3	CDI                             ""
+4   SQLCHAR	0	50   "\r\n"   4	POSO                		""
