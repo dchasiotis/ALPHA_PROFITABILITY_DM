@@ -1,0 +1,11 @@
+13.0
+9
+1   SQLCHAR	0	50   ";"      1	ENTITY_CODE			""
+2   SQLCHAR	0	50   ";"      2	DWH_PRODUCT_CODE			""
+3   SQLCHAR	0	200   ";"      3	DWH_PRODUCT_DESC			""
+4   SQLCHAR	0	50   ";"      4	DWH_PRODUCT_LVL_1_CODE			""
+5   SQLCHAR	0	200   ";"      5	DWH_PRODUCT_LVL_1_DESC			""
+6   SQLCHAR	0	50   ";"      6	DWH_PRODUCT_LVL_2_CODE			""
+7   SQLCHAR	0	200   ";"      7	DWH_PRODUCT_LVL_2_DESC			""
+8   SQLCHAR	0	50   ";"      8	DWH_PRODUCT_LVL_3_CODE			""
+9   SQLCHAR	0	200   "\r\n"      9	DWH_PRODUCT_LVL_3_DESC			""

@@ -1,0 +1,6 @@
+13.0
+4
+1   SQLCHAR	0	50   ";"      1	ENTITY_CODE			""
+2   SQLCHAR	0	50   ";"      2	ECA_CLASS_CODE			""
+3   SQLCHAR	0	200   ";"      3	ECA_CLASS_DESC			""
+4   SQLCHAR	0	100   "\r\n"      4	ECA_CLASS_GROUP			""

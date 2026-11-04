@@ -1,0 +1,8 @@
+13.0
+6
+1   SQLCHAR	0	50   ";"      1	ENTITY_CODE			""
+2   SQLCHAR	0	50   ";"      2	CL_GROUP_CODE			""
+3   SQLCHAR	0	200   ";"      3	CL_GROUP_DESC			""
+4   SQLCHAR	0	50   ";"      4	CL_GROUP_RATING_CODE			""
+5   SQLCHAR	0	200   ";"      5	CL_GROUP_RATING_DESC			""
+6   SQLCHAR	0	50   "\r\n"      6	CL_GROUP_RTE_TRG_RORAC			""

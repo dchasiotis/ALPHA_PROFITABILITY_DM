@@ -1,0 +1,5 @@
+13.0
+3
+1   SQLCHAR	0	50   ";"      1	ENTITY_CODE			""
+2   SQLCHAR	0	50   ";"      2	IFRS_CLASS_CODE			""
+3   SQLCHAR	0	200   "\r\n"      3	IFRS_CLASS_DESC			""

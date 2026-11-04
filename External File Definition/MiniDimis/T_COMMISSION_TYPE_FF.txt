@@ -1,0 +1,5 @@
+13.0
+3
+1   SQLCHAR	0	50   ";"        1	ENTITY_CODE			      ""
+2   SQLCHAR	0	100   ";"        2	COMMISSION_TYPE_CODE	""
+3   SQLCHAR	0	500   "\r\n"    3	COMMISSION_TYPE_DESC	""

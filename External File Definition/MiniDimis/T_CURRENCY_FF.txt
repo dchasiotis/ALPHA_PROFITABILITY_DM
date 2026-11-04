@@ -1,0 +1,5 @@
+13.0
+3
+1   SQLCHAR	0	50   ";"      1	CURRENCY_CODE			""
+2   SQLCHAR	0	200   ";"      2	CURRENCY_DESC			""
+3   SQLCHAR	0	50   "\r\n"      3	CURRENCY_ISO			""

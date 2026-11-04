@@ -1,0 +1,6 @@
+13.0
+4
+1   SQLCHAR	0	50   ";"      1	ENTITY_CODE			""
+2   SQLCHAR	0	50   ";"      2	MODIFICATION_TYPE_CODE			""
+3   SQLCHAR	0	200   ";"      3	MODIFICATION_TYPE_DESC			""
+4   SQLCHAR	0	50   "\r\n"      4	MODIFICATION_FLAG			""

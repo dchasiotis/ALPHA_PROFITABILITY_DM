@@ -1,0 +1,9 @@
+13.0
+7
+1   SQLCHAR	0	50   ";"         1	ENTITY_CODE			    ""
+2   SQLCHAR	0	50   ";"         2	BRANCH_CODE			    ""
+3   SQLCHAR	0	500   ";"        3	BRANCH_DESC			    ""
+4   SQLCHAR	0	50   ";"         4	BRANCH_TYPE_CODE		""
+5   SQLCHAR	0	50   ";"         5	BRANCH_AREA_CODE		""
+6   SQLCHAR	0	500   ";"        6	BRANCH_AREA_DESC		""
+7   SQLCHAR	0	50   "\r\n"      7	PARENT_BRANCH_CODE	""
