@@ -1,0 +1,6 @@
+13.0
+4
+1   SQLCHAR	0	50   ";"      1	ENTITY_CODE			""
+2   SQLCHAR	0	50   ";"      2	REPRICE_INDEX_CODE			""
+3   SQLCHAR	0	200   ";"      3	REPRICE_INDEX_DESC			""
+4   SQLCHAR	0	200   "\r\n"      4	BASIC_RATE_CATEGORY		""

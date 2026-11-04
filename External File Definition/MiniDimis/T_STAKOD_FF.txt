@@ -1,0 +1,18 @@
+13.0
+16
+1   SQLCHAR	0	50   ";"      1	ENTITY_CODE			""
+2   SQLCHAR	0	50   ";"      2	STAKOD_CODE			""
+3   SQLCHAR	0	500   ";"      3	STAKOD_DESC			""
+4   SQLCHAR	0	50   ";"      4	STAKOD_L1_CODE			""
+5   SQLCHAR	0	500   ";"      5	STAKOD_L1_DESC			""
+6   SQLCHAR	0	50   ";"      6	STAKOD_L2_CODE			""
+7   SQLCHAR	0	500   ";"      7	STAKOD_L2_DESC			""
+8   SQLCHAR	0	50   ";"      8	STAKOD_L3_CODE			""
+9   SQLCHAR	0	500   ";"      9	STAKOD_L3_DESC			""
+10   SQLCHAR	0	50   ";"      10	STAKOD_L4_CODE			""
+11   SQLCHAR	0	500   ";"      11	STAKOD_L4_DESC			""
+12   SQLCHAR	0	500   ";"      12	STAKOD_PEE_GROUP			""
+13   SQLCHAR	0	500    ";"      13	STAKOD_CRC_GROUP			""
+14   SQLCHAR	0	50   ";"       14	COVID_CLASSIFICATION			""
+15   SQLCHAR	0	50   ";"        15	STAKOD_CRC_GROUP_CODE			""
+16   SQLCHAR	0	500   "\r\n"      16	STAKOD_CRC_GROUP_GR			""
