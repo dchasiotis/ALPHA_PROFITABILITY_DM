@@ -1,0 +1,6 @@
+13.0
+4
+1   SQLCHAR	0	50   ";"      1	FTP_AMOUNT_BUCKET_CODE			""
+2   SQLCHAR	0	200   ";"      2	FTP_AMOUNT_BUCKET_DESC			""
+3   SQLCHAR	0	50   ";"      3	FTP_AMOUNT_BUCKET_FROM			""
+4   SQLCHAR	0	50   "\r\n"      4	FTP_AMOUNT_BUCKET_TO			""

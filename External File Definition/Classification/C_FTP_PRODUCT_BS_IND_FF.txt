@@ -1,0 +1,4 @@
+13.0
+2
+1   SQLCHAR	0	50   ";"      1	FTP_PRODUCT_BS_IND_CODE			""
+2   SQLCHAR	0	200   "\r\n"      2	FTP_PRODUCT_BS_IND_DESC			""
