@@ -1,0 +1,6 @@
+13.0
+4
+1   SQLCHAR	0	50   ";"      1	HMNIA			""
+2   SQLCHAR	0	50   ";"      2	CURRENCY_CODE			""
+3   SQLCHAR	0	50   ";"      3	CURRENCY_ISO_CODE			""
+4   SQLCHAR	0	50   "\r\n"      4	MFR			""
